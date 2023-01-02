@@ -61,7 +61,7 @@ body {
 
 @font-face {
     font-family: "mc";
-    src: url("../fonts/fonts-pb.ttf") format("opentype");
+    src: url("../fonts/fonts-pb") format("opentype");
 }
 
 .content {
